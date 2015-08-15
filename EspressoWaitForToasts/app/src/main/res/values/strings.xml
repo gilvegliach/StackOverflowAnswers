@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EspressoWaitForToasts</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
