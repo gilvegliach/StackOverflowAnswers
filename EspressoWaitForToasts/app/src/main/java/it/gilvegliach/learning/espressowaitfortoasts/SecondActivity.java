@@ -4,9 +4,6 @@ import android.app.Activity;
 
 import android.os.Bundle;
 
-/**
- * @author  Gil Vegliach <gil.vegliach@zalando.de>
- */
 public class SecondActivity extends Activity {
     @Override
     protected void onCreate(final Bundle savedInstanceState) {

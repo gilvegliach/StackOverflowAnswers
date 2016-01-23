@@ -13,9 +13,6 @@ import android.support.test.espresso.Espresso;
 
 import android.test.ActivityInstrumentationTestCase2;
 
-/**
- * @author  Gil Vegliach <gil.vegliach@zalando.de>
- */
 public class ToastsTest extends ActivityInstrumentationTestCase2<MainActivity> {
     public ToastsTest() {
         super(MainActivity.class);

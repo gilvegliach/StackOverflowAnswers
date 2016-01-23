@@ -9,9 +9,6 @@ import android.view.View;
 
 import android.widget.Toast;
 
-/**
- * @author  Gil Vegliach <gil.vegliach@zalando.de>
- */
 public final class ToastManager {
     private static final CountingIdlingResource idlingResource = new CountingIdlingResource("toast");
     private static final View.OnAttachStateChangeListener listener = new View.OnAttachStateChangeListener() {
